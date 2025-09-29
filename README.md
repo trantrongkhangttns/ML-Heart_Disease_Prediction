@@ -32,5 +32,5 @@ thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 ## 🚀 Cách chạy dự án
 1. Clone repo:
    ```bash
-   git clone https://github.com/trantrongkhangttns/ML-Wine_Quality_Prediction.git
-   cd ML-Wine_Quality_Prediction
+   git clone https://github.com/trantrongkhangttns/ML-Heart_Disease_Prediction.git
+   cd ML-Heart_Disease_Prediction
